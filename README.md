@@ -12,17 +12,16 @@ The dashboard highlights **daily, weekly, and categorical sales performance**, e
 ## Key Features & Insights
 
 ### Revenue & Trend Analysis
-Interactive **line and bar charts** showing total revenue and growth trends by store and week, with **hover-enabled tooltips** displaying detailed metrics  
-(e.g., daily revenue, % change vs. previous period).
+- Interactive **line and bar charts** showing total revenue and growth trends by store and week, with **hover-enabled tooltips** displaying detailed metrics (e.g., daily revenue, % change vs. previous period).
 
 ### Store Comparison
-Visualized each store’s contribution using **dynamic comparison visuals** and **share indicators**, providing instant insights into performance balance.
+- Visualized each store’s contribution using **dynamic comparison visuals** and **share indicators**, providing instant insights into performance balance.
 
 ### Product & Category Breakdown
-Ranked **top product types** (*Barista Espresso, Chai Tea, Gourmet Coffee*) and **categories** (*Coffee, Tea, Bakery*, etc.) using horizontal bar charts for intuitive readability.
+- Ranked **top product types** (*Barista Espresso, Chai Tea, Gourmet Coffee*) and **categories** (*Coffee, Tea, Bakery*, etc.) using horizontal bar charts for intuitive readability.
 
 ### Weekday vs. Weekend Performance
-Displayed **customer traffic and sales volume** differences between weekdays and weekends to support staffing and promotional strategy planning.
+- Displayed **customer traffic and sales volume** differences between weekdays and weekends to support staffing and promotional strategy planning.
 
 ## Color & Design System
 
