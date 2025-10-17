@@ -18,7 +18,7 @@ Interactive **line and bar charts** showing total revenue and growth trends by s
 ### Store Comparison
 Visualized each store’s contribution using **dynamic comparison visuals** and **share indicators**, providing instant insights into performance balance.
 
-### ☕ Product & Category Breakdown
+### Product & Category Breakdown
 Ranked **top product types** (*Barista Espresso, Chai Tea, Gourmet Coffee*) and **categories** (*Coffee, Tea, Bakery*, etc.) using horizontal bar charts for intuitive readability.
 
 ### Weekday vs. Weekend Performance
@@ -30,7 +30,7 @@ Displayed **customer traffic and sales volume** differences between weekdays and
 - **Highlights:** Accent colors applied strategically to emphasize KPIs and positive/negative performance trends.  
 - **Layout:** Balanced visual hierarchy and clean typography for readability and user engagement.  
 
-## 🖱️ Interactivity & Usability
+## Interactivity & Usability
 
 - **Dynamic Filters:** Select by *Month*, *Store*, or *Metric* (Revenue, Quantity, Transactions).  
 - **Hover Cards:** Reveal contextual data such as *percentage change*, *total contribution*, and *performance vs. prior month*.  
