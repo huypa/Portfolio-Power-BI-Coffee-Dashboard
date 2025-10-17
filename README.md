@@ -1,15 +1,14 @@
 # ☕ Portfolio – Power BI Coffee Shop Dashboard
 ## Overview
-- Designed and developed an interactive **Power BI dashboard** to analyze and visualize the performance of three key coffee stores — **Astoria**, **Hell’s Kitchen**, and **Lower Manhattan**.  
-- The dashboard highlights **daily, weekly, and categorical sales performance**, enabling business users to monitor revenue trends, identify high-performing stores, and understand customer purchasing patterns.
+Designed and developed an interactive **Power BI dashboard** to analyze and visualize the performance of three key coffee stores — **Astoria**, **Hell’s Kitchen**, and **Lower Manhattan**. The dashboard highlights **daily, weekly, and categorical sales performance**, enabling business users to monitor revenue trends, identify high-performing stores, and understand customer purchasing patterns.
+
 ## Project Details
 
-**Tool:** Power BI  
-**Data Source:** [Point-of-Sale Transaction Data (Kaggle)](https://www.kaggle.com/code/ahmedabbas757/coffee-shop-sales/input)  
-**Focus:** Revenue, Product Mix, Store & Time Analysis  
+- **Tool:** Power BI  
+- **Data Source:** [Point-of-Sale Transaction Data (Kaggle)](https://www.kaggle.com/code/ahmedabbas757/coffee-shop-sales/input)  
+- **Focus:** Revenue, Product Mix, Store & Time Analysis  
 
 ## Key Features & Insights
-
 ### Revenue & Trend Analysis
 - Interactive **line and bar charts** showing total revenue and growth trends by store and week, with **hover-enabled tooltips** displaying detailed metrics (e.g., daily revenue, % change vs. previous period).
 
