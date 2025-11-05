@@ -14,7 +14,7 @@ I designed and developed an interactive **Power BI dashboard** to analyze and vi
     <img width="876" height="926" alt="Screenshot 2025-10-29 at 12 18 34" src="https://github.com/user-attachments/assets/bd1826e8-94a8-4ebb-a711-ca26870ad551" />
 
 ## 3. Key Features & Insights
-### *3.1 Revenue & Trend Analysis*
+*3.1 Revenue & Trend Analysis*
 - Interactive **line and bar charts** showing total revenue and growth trends by store and week, with **hover-enabled tooltips** displaying detailed metrics (e.g., daily revenue, % change vs. previous period).
 
 ### 3.2 Store Comparison
