@@ -17,13 +17,13 @@ I designed and developed an interactive **Power BI dashboard** to analyze and vi
 *3.1 Revenue & Trend Analysis*
 - Interactive **line and bar charts** showing total revenue and growth trends by store and week, with **hover-enabled tooltips** displaying detailed metrics (e.g., daily revenue, % change vs. previous period).
 
-### 3.2 Store Comparison
+*3.2 Store Comparison*
 - Visualized each store’s contribution using **dynamic comparison visuals** and **share indicators**, providing instant insights into performance balance.
 
-### 3.3 Product & Category Breakdown
+*3.3 Product & Category Breakdown*
 - Ranked **top product types** (*Barista Espresso, Chai Tea, Gourmet Coffee*) and **categories** (*Coffee, Tea, Bakery*, etc.) using horizontal bar charts for intuitive readability. I also added filter options for quickly 
 
-### 3.4 Weekday vs. Weekend Performance
+*3.4 Weekday vs. Weekend Performance*
 - Displayed **customer traffic and sales volume** differences between weekdays and weekends to support staffing and promotional strategy planning.
 
 ## 4. Color & Design System
