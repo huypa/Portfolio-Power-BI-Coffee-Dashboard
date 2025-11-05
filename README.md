@@ -47,8 +47,6 @@ Delivered an **insight-driven dashboard** that enhanced:
 - **Data-driven decision-making** through clear, actionable insights  
 
 The refined design and interactivity empowered stakeholders to **explore performance trends intuitively** and **respond rapidly** to market changes.
-
-<img width="1474" height="848" alt="Screenshot 2025-11-05 at 14 52 40" src="https://github.com/user-attachments/assets/1e498bc1-68e7-4df0-a317-6b5b2754bd8d" />
-
+<img width="1855" height="1044" alt="Screenshot 2025-11-05 at 14 56 22" src="https://github.com/user-attachments/assets/61ad5b8f-910c-4486-a70b-6e323d984adf" />
 
 
