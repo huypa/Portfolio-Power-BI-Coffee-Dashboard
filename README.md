@@ -48,5 +48,6 @@ Delivered an **insight-driven dashboard** that enhanced:
 
 The refined design and interactivity empowered stakeholders to **explore performance trends intuitively** and **respond rapidly** to market changes.
 
-[Uploading coffee_dashboard_3.pdf…]()
+![Uploading Screenshot 2025-11-05 at 14.51.46.png…]()
+
 
