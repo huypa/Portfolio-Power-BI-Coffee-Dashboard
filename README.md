@@ -2,6 +2,8 @@
 ## 1. Overview
 I designed and developed an interactive **Power BI dashboard** to analyze and visualize the performance of three key coffee stores — **Astoria**, **Hell’s Kitchen**, and **Lower Manhattan**. The dashboard highlights **daily, weekly, and categorical sales performance**, enabling business users to monitor revenue trends, identify high-performing stores, and understand customer purchasing patterns.
 
+<img width="1851" height="1044" alt="Screenshot 2025-11-05 at 14 59 35" src="https://github.com/user-attachments/assets/83edfecc-beaa-4048-b35b-4bc8c41fef31" />
+
 ## 2. Project Details
 
 - **Tool:** Power BI  
@@ -9,7 +11,7 @@ I designed and developed an interactive **Power BI dashboard** to analyze and vi
 - **Goasl Focus:** Revenue, Product Mix, Store & Time Analysis  
 - **Technical Focus:** Power Querry / DAX / Database Design
 
-    The data model follows a star schema with Transaction as the central fact table connected to key dimensions — Dim_product, Dim_type, Dim_location, and Dim_Date. It supports time-based, product, and store-level analysis. Supporting tables like Measure Table and Parameter enable dynamic KPI calculations and interactive Power BI reports for revenue, quantity, and transaction insights.
+    The data model follows a snowflake schema with Transaction as the central fact table connected to key dimensions — Dim_product, Dim_type, Dim_location, and Dim_Date. It supports time-based, product, and store-level analysis. Supporting tables like Measure Table and Parameter enable dynamic KPI calculations and interactive Power BI reports for revenue, quantity, and transaction insights.
 
     <img width="876" height="926" alt="Screenshot 2025-10-29 at 12 18 34" src="https://github.com/user-attachments/assets/bd1826e8-94a8-4ebb-a711-ca26870ad551" />
 
@@ -48,5 +50,4 @@ Delivered an **insight-driven dashboard** that enhanced:
 
 The refined design and interactivity empowered stakeholders to **explore performance trends intuitively** and **respond rapidly** to market changes.
 
-<img width="1851" height="1044" alt="Screenshot 2025-11-05 at 14 59 35" src="https://github.com/user-attachments/assets/83edfecc-beaa-4048-b35b-4bc8c41fef31" />
 
