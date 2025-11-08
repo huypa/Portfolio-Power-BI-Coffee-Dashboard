@@ -2,8 +2,6 @@
 ## 1. Overview
 I designed and developed an interactive **Power BI dashboard** to analyze and visualize the performance of three key coffee stores — **Astoria**, **Hell’s Kitchen**, and **Lower Manhattan**. The dashboard highlights **daily, weekly, and categorical sales performance**, enabling business users to monitor revenue trends, identify high-performing stores, and understand customer purchasing patterns.
 
-https://app.powerbi.com/reportEmbed?reportId=d3b508bb-aae2-494d-a51d-28f0cc75d4ca&autoAuth=true&ctid=ef7a487a-77ca-410a-803d-e426b62a587f
-
 <img width="1851" height="1044" alt="Screenshot 2025-11-05 at 14 59 35" src="https://github.com/user-attachments/assets/83edfecc-beaa-4048-b35b-4bc8c41fef31" />
 
 ## 2. Project Details
