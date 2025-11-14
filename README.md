@@ -11,7 +11,7 @@ I designed and developed an interactive **Power BI dashboard** to analyze and vi
 - **Goasl Focus:** Revenue, Product Mix, Store & Time Analysis  
 - **Technical Focus:** Power Querry / DAX / Database Design
 
-    The data model follows a snowflake schema with Transaction as the central fact table connected to key dimensions — Dim_product, Dim_type, Dim_location, and Dim_Date. It supports time-based, product, and store-level analysis. Supporting tables like Measure Table and Parameter enable dynamic KPI calculations and interactive Power BI reports for revenue, quantity, and transaction insights.
+The data model follows a snowflake schema with Transaction as the central fact table connected to key dimensions — Dim_product, Dim_type, Dim_location, and Dim_Date. It supports time-based, product, and store-level analysis. Supporting tables like Measure Table and Parameter enable dynamic KPI calculations and interactive Power BI reports for revenue, quantity, and transaction insights.
 
     <img width="876" height="926" alt="Screenshot 2025-10-29 at 12 18 34" src="https://github.com/user-attachments/assets/bd1826e8-94a8-4ebb-a711-ca26870ad551" />
 
