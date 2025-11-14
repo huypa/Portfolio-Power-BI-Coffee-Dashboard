@@ -42,12 +42,13 @@ I designed and developed an interactive **Power BI dashboard** to analyze and vi
 - **Responsive Design:** Optimized layout for both large and compact screen views.
 
 ## 6. Results
+This dashboard shows a positive performance in March for the coffee business:
+- All major KPIs increased by *22–23%*.
+- Coffee is the dominant revenue driver, especially espresso-based drinks.
+- All three stores perform consistently, with Lower Manhattan holding a slight lead.
+- Revenue is driven mainly by weekday traffic, likely due to worker and commuter activity.
+- Daily trends show regular peaks and healthy consistency, with no concerning drops.
+- The business is growing, product mix is healthy, and store performance is stable across locations.
 
-Delivered an **insight-driven dashboard** that enhanced:
-- Business **visibility into store-level performance**  
-- **Operational efficiency** in sales tracking and forecasting  
-- **Data-driven decision-making** through clear, actionable insights  
-
-The refined design and interactivity empowered stakeholders to **explore performance trends intuitively** and **respond rapidly** to market changes.
 
 
